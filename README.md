@@ -2,7 +2,7 @@
 
 Effective Date: [5/8/2025]
 
-Thank you for using our Discord bot ("Lunar Support"). By using the Bot, you agree to the following Terms of Service:
+Thank you for using our Discord bot Lunar Support and Lunar Management. By using the Bot, you agree to the following Terms of Service:
 
 1. **Usage**
    - You must comply with Discord's Terms of Service.
